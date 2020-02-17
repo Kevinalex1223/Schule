@@ -1,5 +1,5 @@
 function tarzan() {
-  document.onclick = {
+  document.onclick = () => {
     alert('tarzan')
   }
 }
