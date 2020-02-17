@@ -1,7 +1,7 @@
 function tarzan() {
   document.onclick = () => {
     img = document.createElement('img')
-    img.src = 'https://i7.pngguru.com/preview/51/763/693/tarzan-jane-porter-film-etsy-drawing-jane-thumbnail.jpg'
+    img.src = '/pngguru.com.png'
     
     document.body.appendChild(img)
   }
