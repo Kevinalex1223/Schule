@@ -7,6 +7,7 @@ function tarzan() {
   
   document.onclick = () => {
     img.style.top = '500px';
+    img.style.opacity = '1';
   }
 }
 
